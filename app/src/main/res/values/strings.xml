@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business Card Talita</string>
+    <string name="label_cartao_visita">Cartão de Visitas</string>
+    <string name="label_new_card">Novo Cartão</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="nome_empresa">Nome da Empresa</string>
+    <string name="cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_sucess">cartão cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
